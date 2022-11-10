@@ -1,6 +1,6 @@
 # Steam Wash (employee app)
 
-An application allowing the steam wash employer to receive orders washing from clients
+An application allowing the steam wash employee to receive orders washing from clients
 
 
 ## Demo Video
